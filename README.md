@@ -9,5 +9,6 @@ This repository contains all lab work for the CS4082 Machine Learning course.
 - Lab 3: Data Preprocessing and Feature Engineering
 - Lab 4: Linear Regression & Its Variants
 - Lab 6: Machine Learning Pipeline
+- Lab 7: Data-Centric vs Model-Centric approache
 
 
